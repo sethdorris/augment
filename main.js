@@ -34,7 +34,5 @@ var SolarSystem = function() {
 
 }();
 
-SolarSystem.setSpacecraft("New Horizon");
-console.log(SolarSystem.getSpacecraft());
 
 
